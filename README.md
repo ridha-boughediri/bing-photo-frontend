@@ -92,8 +92,12 @@ Si votre application nécessite des variables d'environnement, créez un fichier
 - **Problèmes** : En cas de problème avec Docker, assurez-vous que les ports sont disponibles et que l'application fonctionne en local avant de la dockeriser.
 
 ## Contributeurs
+@ridha-boughediri
+@AlizeaMasse
+@MathieuPlateforme
+@tchessiDev
+@yonathan-darmon
 
-Listez les contributeurs ici si nécessaire.
 
 ---
 
